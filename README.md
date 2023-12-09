@@ -1,10 +1,10 @@
-# Sleep Apnea Detection
-### A Wear OS app for detecting [Sleep Apnea](https://en.wikipedia.org/wiki/Sleep_apnea) written in Kotlin along with [Jetpack Compose](https://developer.android.com/jetpack/compose)
+# SmartWatch Interface
+### A Wear OS app for detecting any heart anamoly written in Kotlin 
 
 ## Usage
 Clone the repo
 ```sh
-git clone https://github.com/Project-Based-Learning-crew-3/sleep-apnea.git
+https://github.com/AravindG-4/SmartWatch_interface.git
 ```
 
 Open the project in Android Studio and run it
